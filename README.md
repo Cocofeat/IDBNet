@@ -17,12 +17,15 @@ Some basic python packages such as Numpy.
 ## Citation
 If you find our work is helpful for your research, please consider to cite:  
 ```
-@journal{Coco2022IDBNet,
-  title={An interactive dual-branch network for hard palate segmentation of the oral cavity from CBCT images},
-  author={Zou, Ke and Tianjin, Tao and Xuedong, Yuan and Xiaojing, Shen and Wenli, Lai and Hu, Long},
-  journal={Applied Soft Computing},
-  year={2022}
-  doi={https://doi.org/10.1016/j.asoc.2022.109549}
+@ARTICLE{ZOU2022IDBNet,
+  author = {Ke Zou and Tianjin Tao and Xuedong Yuan and Xiaojing Shen and Wenli
+	Lai and Hu Long},
+  title = {An interactive dual-branch network for hard palate segmentation of
+	the oral cavity from CBCT images},
+  journal = {Applied Soft Computing},
+  year = {2022},
+  volume = {129},
+  pages = {109549},
 }
 ```
 ## Acknowledgement
